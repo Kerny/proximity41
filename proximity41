@@ -2,14 +2,14 @@ var proximity41 = Math.floor(Math.random() * 2);
 
 while(proximity41 === 0){
 	console.log("PROXIMITY41");
-	var coinFace = Math.floor(Math.random() * 2);
+	var proximity41 = Math.floor(Math.random() * 2);
 }
 console.log("scooter10");
 
 understand = true;
 
 while(understand){
-	console.log("PROXIMITY41");
+	console.log("You are dead. Ha ha ha.");
 	understand = false;
 	
 }
